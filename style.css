@@ -1,0 +1,42 @@
+    body{
+        /* background: linear-gradient(to bottom, #ccccff 0%, #ffc5ae 100%); */
+        background: linear-gradient(to bottom, #a9a9aa 0%, #8fe5ff 100%);
+    }
+    #hd{
+        color: black;
+    }
+    .header{
+        border: 4px double black;
+        text-align: center;
+    }
+    .createButton
+    {
+        background-color: #3273dc;
+        border-color: transparent;
+        color: #fff;
+        border-radius: 10px;
+        width: 140px;
+        height: 50px;
+        font-size: 14pt;
+    }
+    .label{
+        border: 4px double black;
+        color: #363636;
+        display: block;
+        font-weight: 700;
+        text-align: center;
+        width: 100%;
+        height: 1000px;
+    }
+    #text{
+        font-size: 20pt;
+    }
+    .footer {
+        border: 4px double black;
+        text-align: center;
+    }
+    #el{
+        width: 70px;
+        height: 30px;
+        font-size: 14pt;
+    }
