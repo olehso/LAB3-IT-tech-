@@ -17,5 +17,5 @@ function CreateTable()
         document.write('</tr>');  //закрываем строку
     }
     document.write('</table>'); //закрываем таблицу
-    document.write('<a href="/Lab3.html/">' + '<button style="font-size:24px">Вернуться на главную</button>' + '</a>');
+    document.write('<a href="/Lab3/">' + '<button style="font-size:24px">Вернуться на главную</button>' + '</a>');
 }
