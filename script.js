@@ -17,5 +17,5 @@ function CreateTable()
         document.write('</tr>');  //закрываем строку
     }
     document.write('</table>'); //закрываем таблицу
-    document.write('<a href="/olehso/LAB3-IT-tech-/main/Lab3.html/">' + '<button style="font-size:24px">Вернуться на главную</button>' + '</a>');
+    document.write('<button value="Refresh Page" style="font-size:24px" onClick="window.location.reload();">Обновить</button>');
 }
