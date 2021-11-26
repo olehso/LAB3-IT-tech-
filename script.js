@@ -17,5 +17,5 @@ function CreateTable()
         document.write('</tr>');  //закрываем строку
     }
     document.write('</table>'); //закрываем таблицу
+    document.write('<a href="file://C:/Users/Admin/Desktop/SO/NURE/IT-tech/%D0%9B%D0%91%E2%84%963/Lab3.html">' + '<button style="font-size:24px">Вернуться на главную</button>' + '</a>');
 }
-
